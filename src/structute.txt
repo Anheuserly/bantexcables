@@ -1,0 +1,25 @@
+src/
+├── components/
+│   ├── Header/
+│   │   ├── Header.jsx
+│   │   └── Header.css
+│   ├── Footer/
+│   │   ├── Footer.jsx
+│   │   └── Footer.css
+│   ├── Navbar/
+│   │   ├── Navbar.jsx
+│   │   └── Navbar.css
+│   └── index.js
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   ├── Services.jsx
+│   └── index.js
+│
+├── styles/
+│   ├── globals.css
+│   ├── variables.css
+│   ├── reset.css
+│   └── responsive.css
